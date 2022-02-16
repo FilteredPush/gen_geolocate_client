@@ -60,7 +60,7 @@
 					<keep>true</keep>
 					<target>3.0</target>
 					<extension>true</extension>
-					<packageName>org.geolocate</packageName>
+					<packageName>org.geolocate.webservice.svcv2</packageName>
 					<sourceDestDir>src/main/java</sourceDestDir>
 				</configuration>
 			</plugin>
